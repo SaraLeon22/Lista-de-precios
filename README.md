@@ -1,4 +1,4 @@
-# Lista de Precios
+# Calculadora de Compras (Total y Promedio)
 
 Este proyecto en Python permite al usuario registrar hasta 10 precios de productos comprados y calcular el total. Está diseñado para validar entradas y evitar errores durante el proceso.
 
